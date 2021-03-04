@@ -1,3 +1,3 @@
 # Getime
 
-getting time index of a variable
+Return time index of a variable, given the desired range.
